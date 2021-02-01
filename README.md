@@ -1,0 +1,2 @@
+# promosector
+Promosector app
