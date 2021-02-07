@@ -1,1 +1,1 @@
-web: gunicorn promosector.wsgi --log tail -
+web: gunicorn promosector.wsgi --log-file -
