@@ -1,4 +1,4 @@
-var staticCacheName = 'djangopwa-v1';
+var staticCacheName = 'psector-v1';
 
 self.addEventListener('install', function(event) {
 event.waitUntil(
