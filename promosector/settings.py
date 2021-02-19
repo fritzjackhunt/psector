@@ -18,7 +18,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath
 (__file__)))
 
 #PWA settings
-PWA_SERVICE_WORKER_PATH = os.path.join(BASE_DIR, 'promosector', 'static/js')
+#PWA_SERVICE_WORKER_PATH = os.path.join(BASE_DIR, 'promosector', 'static/js')
 
 
 # Quick-start development settings - unsuitable for production
